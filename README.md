@@ -1,9 +1,9 @@
-# 流星のロックマン2攻略
-このウェブサイトは、ニンテンドーDS専用ソフト 流星のロックマン2の攻略情報と、[流星のロックマン パーフェクトコレクション](https://www.capcom-games.com/megaman/starforce/) の攻略情報を扱っています。
+# 流星のロックマン3攻略
+このウェブサイトは、ニンテンドーDS専用ソフト 流星のロックマン3の攻略情報と、[流星のロックマン パーフェクトコレクション](https://www.capcom-games.com/megaman/starforce/) の攻略情報を扱っています。
 
 以下のURLから閲覧できます。
 
-https://chipcom.org/ryusei2/
+https://chipcom.org/ryusei3/
 
 [CHIPCOM](https://chipcom.org/) というウェブサイトの一部です。
 
