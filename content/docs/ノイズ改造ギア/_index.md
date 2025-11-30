@@ -4,13 +4,11 @@ date: 2025-11-30T16:50:22+09:00
 lastmod: 2025-11-30T16:50:22+09:00
 slug: "ノイズ改造ギア"
 draft: false
+weight: 180
 ---
 
+# ノイズ改造ギア
 ノイズ改造ギアの一覧です。
-
-#contents
-
-#br
 
 ## ノイズドカード
 一度に、５枚まで設定可能。違うマークのカードを入力すると、HPバグが発生する。<br />
@@ -20,40 +18,38 @@ draft: false
 ノイズハンド(ポーカーの役)のカードを設定することで、バグを抑えることが可能。<br />
 また、ノイズハンドによっては追加効果を得ることが可能。<br />
 
-
 ### 早見表
-
-|絵柄<br />数字\|COLOR(red):ハート|COLOR(blue):ダイヤ|COLOR(purple):スペード|COLOR(green):クラブ|
-|---|---|---|---|---|
-|2|ブレイク+10|バブルボディ|エレキ+10|ウッド+10|
-||BGCOLOR(#EEEEEE):CSマシーンフレイム|BGCOLOR(#EEEEEE):Sアイスステージ|BGCOLOR(#EEEEEE):HP+150|BGCOLOR(#EEEEEE):エアシューズ|
-|3|スーパーアーマー|アクア+10|HP+300||
-||BGCOLOR(#EEEEEE):Sアタック+10|BGCOLOR(#EEEEEE):CSIスピニング|BGCOLOR(#EEEEEE):HP+150|BGCOLOR(#EEEEEE):HP+250|
-|4|HP+250|Sホイッスル|Sパニッククラウド|HP+400|
-||BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):ブレイク+10|BGCOLOR(#EEEEEE):CSフラッシュスピア|BGCOLOR(#EEEEEE):ウッド+10|
-|5|ファイア+10|CSギザホイール|CS+対インビジ|ソード+10|
-||BGCOLOR(#EEEEEE):ブレイク+20|BGCOLOR(#EEEEEE):HP+250|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):ウッドGA+|
-|6|Sアタックパネル|ファーストバリア|HP+200|CS+風効果|
-||BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):フリーズボディ|BGCOLOR(#EEEEEE):Sパラライズステージ|BGCOLOR(#EEEEEE):フロートシューズ|
-|7|フラッシュボディ|アクア+20|アンダーシャツ|+グリーンP|
-||BGCOLOR(#EEEEEE):ファイア+10|BGCOLOR(#EEEEEE):CS+移動不可|BGCOLOR(#EEEEEE):エレキ+10|BGCOLOR(#EEEEEE):チャージスプレッド|
-|8|CSヘビードーン||HP+150|クイックゲージ|
-||BGCOLOR(#EEEEEE):HP+400|BGCOLOR(#EEEEEE):+パラライズP|BGCOLOR(#EEEEEE):CS+麻痺|BGCOLOR(#EEEEEE):HP+250|
-|9|リフレクト|Sブラックインク|+ゼツエンP|ウッド+20|
-||BGCOLOR(#EEEEEE):ソード+10|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):パラライズボディ|BGCOLOR(#EEEEEE):カワリミ|
-|10|Sボムライザー|HP+250|CSマッドバルカン||
-||BGCOLOR(#EEEEEE):Sダブルイーター|BGCOLOR(#EEEEEE):HP+150|BGCOLOR(#EEEEEE):エレキ+20|BGCOLOR(#EEEEEE):Sディバイドライン|
-|J|ファイア+20|グラビティボディ|HP+250|Sクサムラステージ|
-||BGCOLOR(#EEEEEE):チャージ+|BGCOLOR(#EEEEEE):Sマヒプラス|BGCOLOR(#EEEEEE):HP+150|BGCOLOR(#EEEEEE):|
-|Q|HP+150|CS+混乱|CS+盲目|Sリカバリー30|
-||BGCOLOR(#EEEEEE):ノーマルGA+|BGCOLOR(#EEEEEE):メガ+1|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):HP+400|
-|K|チャージポイズン|アクアGA+|ソード+20|HP+250|
-||BGCOLOR(#EEEEEE):ファーストオーラ|BGCOLOR(#EEEEEE):HP+250|BGCOLOR(#EEEEEE):カードリカバリー|BGCOLOR(#EEEEEE):CSシュリシュリケン|
-|A|ファイアGA+|+アイスP|エレキGA+|CSムーテクノロジー|
-||BGCOLOR(#EEEEEE):HP+200|BGCOLOR(#EEEEEE):アクア+10|BGCOLOR(#EEEEEE):HP+200|BGCOLOR(#EEEEEE):HP+250|
-|||||BGCOLOR(#CCDDEE):流星|
-|HP+500|ボディパック|マックスバスター|オートロックオン|Sインビジブル|
-|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):|BGCOLOR(#EEEEEE):|
+|数字\絵柄|<span style="color:red;">ハート</span>|<span style="color:blue;">ダイヤ</span>|<span style="color:purple;">スペード</span>|<span style="color:green;">クラブ</span>|
+|---|-------------------------------------|--------------------------------------|-----------------------------------------|---------------------------------------|
+|2| ブレイク+10                             | バブルボディ                               | エレキ+10                                  | ウッド+10                                |
+|| BGCOLOR(#EEEEEE):CSマシーンフレイム         | BGCOLOR(#EEEEEE):Sアイスステージ            | BGCOLOR(#EEEEEE):HP+150                 | BGCOLOR(#EEEEEE):エアシューズ               |
+|3| スーパーアーマー                            | アクア+10                               | HP+300                                  |                                       |
+|| BGCOLOR(#EEEEEE):Sアタック+10           | BGCOLOR(#EEEEEE):CSIスピニング            | BGCOLOR(#EEEEEE):HP+150                 | BGCOLOR(#EEEEEE):HP+250               |
+|4| HP+250                              | Sホイッスル                               | Sパニッククラウド                               | HP+400                                |
+|| BGCOLOR(#EEEEEE):                   | BGCOLOR(#EEEEEE):ブレイク+10             | BGCOLOR(#EEEEEE):CSフラッシュスピア             | BGCOLOR(#EEEEEE):ウッド+10               |
+|5| ファイア+10                             | CSギザホイール                             | CS+対インビジ                                | ソード+10                                |
+|| BGCOLOR(#EEEEEE):ブレイク+20            | BGCOLOR(#EEEEEE):HP+250              | BGCOLOR(#EEEEEE):                       | BGCOLOR(#EEEEEE):ウッドGA+               |
+|6| Sアタックパネル                            | ファーストバリア                             | HP+200                                  | CS+風効果                                |
+|| BGCOLOR(#EEEEEE):                   | BGCOLOR(#EEEEEE):フリーズボディ             | BGCOLOR(#EEEEEE):Sパラライズステージ             | BGCOLOR(#EEEEEE):フロートシューズ             |
+|7| フラッシュボディ                            | アクア+20                               | アンダーシャツ                                 | +グリーンP                                |
+|| BGCOLOR(#EEEEEE):ファイア+10            | BGCOLOR(#EEEEEE):CS+移動不可             | BGCOLOR(#EEEEEE):エレキ+10                 | BGCOLOR(#EEEEEE):チャージスプレッド            |
+|8| CSヘビードーン                            |                                      | HP+150                                  | クイックゲージ                               |
+|| BGCOLOR(#EEEEEE):HP+400             | BGCOLOR(#EEEEEE):+パラライズP             | BGCOLOR(#EEEEEE):CS+麻痺                  | BGCOLOR(#EEEEEE):HP+250               |
+|9| リフレクト                               | Sブラックインク                             | +ゼツエンP                                  | ウッド+20                                |
+|| BGCOLOR(#EEEEEE):ソード+10             | BGCOLOR(#EEEEEE):                    | BGCOLOR(#EEEEEE):パラライズボディ               | BGCOLOR(#EEEEEE):カワリミ                 |
+|10| Sボムライザー                             | HP+250                               | CSマッドバルカン                               |                                       |
+|| BGCOLOR(#EEEEEE):Sダブルイーター           | BGCOLOR(#EEEEEE):HP+150              | BGCOLOR(#EEEEEE):エレキ+20                 | BGCOLOR(#EEEEEE):Sディバイドライン            |
+|J| ファイア+20                             | グラビティボディ                             | HP+250                                  | Sクサムラステージ                             |
+|| BGCOLOR(#EEEEEE):チャージ+              | BGCOLOR(#EEEEEE):Sマヒプラス              | BGCOLOR(#EEEEEE):HP+150                 | BGCOLOR(#EEEEEE):                     |
+|Q| HP+150                              | CS+混乱                                | CS+盲目                                   | Sリカバリー30                              |
+|| BGCOLOR(#EEEEEE):ノーマルGA+            | BGCOLOR(#EEEEEE):メガ+1                | BGCOLOR(#EEEEEE):                       | BGCOLOR(#EEEEEE):HP+400               |
+|K| チャージポイズン                            | アクアGA+                               | ソード+20                                  | HP+250                                |
+|| BGCOLOR(#EEEEEE):ファーストオーラ           | BGCOLOR(#EEEEEE):HP+250              | BGCOLOR(#EEEEEE):カードリカバリー               | BGCOLOR(#EEEEEE):CSシュリシュリケン           |
+|A| ファイアGA+                             | +アイスP                                | エレキGA+                                  | CSムーテクノロジー                            |
+|| BGCOLOR(#EEEEEE):HP+200             | BGCOLOR(#EEEEEE):アクア+10              | BGCOLOR(#EEEEEE):HP+200                 | BGCOLOR(#EEEEEE):HP+250               |
+||                                     |                                      |                                         | BGCOLOR(#CCDDEE):流星                   |
+|HP+500| ボディパック                              | マックスバスター                             | オートロックオン                                | Sインビジブル                               |
+|BGCOLOR(#EEEEEE):| BGCOLOR(#EEEEEE):                   | BGCOLOR(#EEEEEE):                    | BGCOLOR(#EEEEEE):                       | BGCOLOR(#EEEEEE):                     |
 
 
 ### ハート
